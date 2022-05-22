@@ -1,9 +1,9 @@
 {
-    "token": "OTc3NzQwODgzNDY4MzYxNzM4.GZLVBV.tEArW5lMLJj-9Ri1cNOdUbJ4oWjclganpN4Lz8",
+    "token": "",
     "defaultPrefix": ".",
     "owners": [
         "929486579955826719",
         "390322332021030912"
     ],
-    "connect_string": "mongodb+srv://johnzao:74hxISlBQRfJRiLL@cluster0.tpgup.mongodb.net/NeymarJR-db?retryWrites=true&w=majority"
+    "connect_string": ""
 }
