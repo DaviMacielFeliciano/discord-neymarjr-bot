@@ -1,3 +1,3 @@
-# discord-standard-bot
+# Neymarjr
 
-Bot base para todos os projetos feitos, fique a vontade caso queira usa-lo.
+Bot feito para uma comunidade espeficiamente do NeymarJr
