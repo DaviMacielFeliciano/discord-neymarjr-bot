@@ -1,3 +1,3 @@
 # Neymarjr
 
-Bot feito para uma comunidade espeficiamente do NeymarJr
+Bot feito para uma comunidade especificamente do NeymarJr
